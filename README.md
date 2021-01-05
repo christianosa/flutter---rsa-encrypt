@@ -12,7 +12,7 @@ Project is created with:
 * ASN.1 version 0.8.1 (Parser for Dart)
 	
 
-<img src="https://github.com/christianosa/flutter-rsa-encrypt/blob/master/Tela%201%20-%20Chaves.png?raw=true" width="500px" height="616px">
+<img src="https://github.com/christianosa/flutter-rsa-encrypt/blob/master/Tela%201%20-%20Chaves.png?raw=true" width="400px" height="800px">
 
 <img src="https://github.com/christianosa/flutter-rsa-encrypt/blob/master/Tela%202%20-%20Sign%20part%201.png?raw=true" width="500px" height="616px">
 
