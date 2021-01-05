@@ -1,16 +1,21 @@
 # encrypt
 
-A new Flutter application.
+## What is this?
+This project was created to show how to create a flutter sample APP that create and use RSA key to sign a text.
 
-## Getting Started
+## Introduction 
+This project was created to practice flutter. Was an opportunity to study how to use RSA keys in flutter, keeping keys on device using FlutterSecureStorage library.
 
-This project is a starting point for a Flutter application.
+## Table of contents
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Endpoints](#endpoint)
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
+Project is created with:
+* Poly Castle version 2.0.0 (A Dart library for encryption and decryption)
+* ASN.1 version 0.8.1 (Parser for Dart)
+	
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/christianosa/consuming_api_with_vue/blob/master/screenshot.png" width="500px" height="616px">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
